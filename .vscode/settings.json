@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "pocketpy.h": "c"
+    },
+    "cSpell.words": [
+        "newmodule",
+        "pocketpy"
+    ]
+}
