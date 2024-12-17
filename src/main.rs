@@ -1,6 +1,6 @@
 use std::ffi::CString;
 
-use pocketpy_test::{
+use pocketpy_rs::{
     py_CompileMode_EXEC_MODE, py_Ref, py_exec, py_finalize, py_initialize, py_newmodule, PK_VERSION,
 };
 

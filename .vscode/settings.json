@@ -4,6 +4,7 @@
         "pocketpy.h": "c"
     },
     "cSpell.words": [
+        "bindgen",
         "newmodule",
         "pocketpy"
     ]
