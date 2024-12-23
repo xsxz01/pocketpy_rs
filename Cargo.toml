@@ -1,7 +1,13 @@
 [package]
 name = "pocketpy_rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
+description = "Rust bindings for PocketPy"
+license = "MIT"
+repository = "https://github.com/xsxz01/pocketpy_rs"
+readme = "README.md"
+keywords = ["pocketpy", "bindings", "ffi", "python", "rust"]
+authors = ["Pang <pangyuyu@email.cn>"]
 
 [dependencies]
 
