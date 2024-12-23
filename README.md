@@ -22,6 +22,8 @@
   <img alt="Github forks" src="https://img.shields.io/github/forks/xsxz01/pocketpy_rs?color=56BEB8" />
 
   <img alt="Github stars" src="https://img.shields.io/github/stars/xsxz01/pocketpy_rs?color=56BEB8" />
+
+  ![Changelog CI Status](https://github.com/<username>/<repository>/workflows/Changelog%20CI/badge.svg)
 </p>
 
 <!-- Status -->
